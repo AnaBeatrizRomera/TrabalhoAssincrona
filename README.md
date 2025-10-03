@@ -1,4 +1,4 @@
-# 📌 Trabalho Assíncrona – Sistema de Avaliação de Filmes
+# 📌 Trabalho Assíncrona – Sistema de Usuários e endereços
 
 Este projeto foi desenvolvido em **Node.js**, utilizando **Express**, **Sequelize** e **Handlebars**.
 Ele implementa um **CRUD de usuários e endereços**.
