@@ -1,0 +1,24 @@
+{
+  "name": "trabalhoassincrona",
+  "version": "1.0.0",
+  "description": "Repositório com os códigos do trabalho de Programção Assincrona, sistema de avaliação de filmes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-handlebars": "^8.0.3",
+    "handlebars": "^4.7.8",
+    "mysql2": "^3.15.1",
+    "sequelize": "^6.37.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
